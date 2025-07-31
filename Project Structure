@@ -1,0 +1,12 @@
+auth-system/
+├── config/
+│   └── db.js
+├── middleware/
+│   └── authMiddleware.js
+├── models/
+│   └── User.js
+├── routes/
+│   └── auth.js
+├── .env
+├── server.js
+├── package.json
